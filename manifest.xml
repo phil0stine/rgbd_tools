@@ -1,0 +1,14 @@
+<package>
+  <description brief="rgbd_tools">
+
+     rgbd_tools
+
+  </description>
+  <author>phil</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/rgbd_tools</url>
+
+</package>
+
+
